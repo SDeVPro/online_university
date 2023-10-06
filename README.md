@@ -27,12 +27,6 @@
 4. Apply for Leave
 5. Send Feedback to HOD
 
-
-## Support Developer
-1. Subscribe & Share my YouTube Channel - https://bit.ly/vijay-thapa-online-courses
-2. Add a Star 🌟  to this 👆 Repository
-
-
 ## How to Install and Run this project?
 
 ### Pre-Requisites:
